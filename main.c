@@ -227,7 +227,7 @@ void consultaCod (void) // CONSULTAR 1 CADASTRADO QUALQUER VIA CÓDIGO DADO POR U
         cont++;
 
         if ( cont > 100 ){
-            printf("\nCodigo nao encontrado, pressione enter para volar ao menu principal\n");
+            printf("\nCodigo nao encontrado, pressione enter para voltar ao menu principal\n");
             getchar();
             system("cls");
         }
@@ -252,7 +252,7 @@ void excluirC(void)  // EXCLUI CLIENTE
             {
                 printf("\nCodigo: %d \nMarca: %s\nNumero: %s\nQuantidade: %s\nValor: %s\n\n", log[cont].cod,log[cont].Marca,log[cont].Numero,log[cont].Quantidade,log[cont].Valor);
                 getchar();
-                printf("\nDeseja realmente exlucir? s/n: ");
+                printf("\nDeseja realmente excluir? s/n: ");
                 scanf("%s",&resp);
 
                 if ( ( resp == 'S' ) || ( resp == 's' ) )
