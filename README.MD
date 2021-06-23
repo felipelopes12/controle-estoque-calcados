@@ -17,15 +17,15 @@ Desenvolvido em Linguagem C, o controle de estoque da loja de calçados faz as s
 ## 🚀 Funcionalidades
 
 
-- Cadastra calçado <br>
+- Cadastrar calçado <br>
  (Codigo, Marca, Numero, Quantidade de pares, Valor)
 <br>
 
-- Lista estoque <br>
+- Listar estoque <br>
  (Codigo, Listar todos os Calçados)
 <br>
 
-- Exclui calçado <br>
+- Excluir calçado <br>
  (Codigo)
 <br>
 
