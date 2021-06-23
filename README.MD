@@ -3,6 +3,7 @@
 </h1>
 
 <br>
+
 ## 💻 Projeto
 
 Desenvolvido em Linguagem C o controle de estoque da loja de calçados faz as seguintes funçoes:
@@ -10,7 +11,7 @@ Desenvolvido em Linguagem C o controle de estoque da loja de calçados faz as se
 <br>
 
 <p align="center">
-  <img alt="Estoque" src="imagens/Estoque.png" width="100%">
+  <img alt="Estoque" src="imagens/Estoque.PNG" width="100%">
 </p>
 
 ## 🚀 Funcionalidades
@@ -27,7 +28,7 @@ Desenvolvido em Linguagem C o controle de estoque da loja de calçados faz as se
 <br>
 
 <p align="center">
-  <img alt="Home" src="imagens/Home.png" width="100%">
+  <img alt="Home" src="imagens/Home.PNG" width="100%">
 </p>
 ---
 
