@@ -11,7 +11,7 @@ Desenvolvido em Linguagem C o controle de estoque da loja de calçados faz as se
 <br>
 
 <p align="center">
-  <img alt="Estoque" src="imagens/Estoque.PNG" width="100%">
+  <img alt="Estoque" src="imagens/EstoqueCalcados.PNG" width="100%">
 </p>
 
 ## 🚀 Funcionalidades
@@ -20,9 +20,11 @@ Desenvolvido em Linguagem C o controle de estoque da loja de calçados faz as se
 - Cadastra calçado <br>
  (Codigo, Marca, Numero, Quantidade de pares, Valor)
 <br>
+
 - Lista estoque <br>
  (Codigo, Listar todos os Calçados)
 <br>
+
 - Exclui calçado <br>
  (Codigo)
 <br>
